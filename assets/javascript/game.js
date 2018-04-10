@@ -1,6 +1,6 @@
 $(document).ready(function(){
 
-	colorcrystals = ['assets/images/unnamed.jpg', 'assets/images/bluecrystal.jpg', 'assets/images/yellowcrystal.jpg', 'assets/images/greencrystal.jpg'];
+	colorcrystals = ['assets/images/unnamed.jpg', 'assets/images/unnamed.jpg', 'assets/images/unnamed.jpg', 'assets/images/unnamed.jpg'];
 	
 	var wins = 0;
 	var lose = 0;
